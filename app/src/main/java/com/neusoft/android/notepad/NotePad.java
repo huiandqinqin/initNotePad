@@ -26,7 +26,7 @@ public class NotePad extends ListActivity {
     private MyDataBaseAdapter dbHelper;
     private SQLiteDatabase db = null;
     private Cursor c;
-
+    ///
 
 
 
